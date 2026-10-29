@@ -1,6 +1,6 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
+# Reg No:212225040230
+# Name:Megala M S
 # Date:
 
 
@@ -31,6 +31,7 @@ To develop the ATM and Banking System using Star UML
 
 # UML DIAGRAMS
 
+
 # USE CASE DIAGRAM
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
@@ -48,6 +49,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="817" height="602" alt="image" src="https://github.com/user-attachments/assets/16d87a55-a055-442d-8486-b59c9efcf02e" />
 
 
 
@@ -68,6 +70,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="812" height="568" alt="image" src="https://github.com/user-attachments/assets/bb97edba-a9e0-4bd6-9fcf-28e2acb6175e" />
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -76,6 +80,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="756" height="578" alt="image" src="https://github.com/user-attachments/assets/c488075f-dfb6-4b6a-8c81-e262da0fa936" />
 
 
 
@@ -87,11 +92,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
+<img width="807" height="542" alt="image" src="https://github.com/user-attachments/assets/7d081fd0-bd47-4ad6-b660-3cfe0d245eb7" />
 
 
 # ACTIVITY DIAGRAM:
@@ -106,8 +107,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
+<img width="808" height="932" alt="image" src="https://github.com/user-attachments/assets/17be4b55-21b8-4c44-93d6-1efb6acf8a17" />
 
 
 # SEQUENCE DIAGRAM
@@ -127,6 +127,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="813" height="531" alt="image" src="https://github.com/user-attachments/assets/1dbe9735-7a7e-46a3-ab90-755be271f049" />
 
 
 
